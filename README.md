@@ -25,7 +25,7 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 - Masters Big Data
 - Computer Networks Projects
 -->
-Thanks for stopping by!
+Thanks for stopping by! Stay happy!
 <!--
 **surajsureshkumar/surajsureshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
