@@ -13,6 +13,12 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 - PostgreSQL, MySQL
 - AWS, Docker
 - Git, GitHub
+
+  
+- 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
+- 🌱 I’m currently learning and polishing my java skills and system design
+- 📫 How to reach me: surajsureshkumar.98@gmail.com
+
 <!--
 ## 📌 Projects
 - Portfolio Website (coming soon!)
