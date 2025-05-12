@@ -9,9 +9,10 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 -->
 ## 🚀 Technologies I work with
 - Java, Spring Boot
-- Python
+- Python, Flash
+- Go, C++ 
 - PostgreSQL, MySQL
-- AWS, Docker
+- AWS, GCP, Docker
 - Git, GitHub
 
 ## :fire: Somethings About me
