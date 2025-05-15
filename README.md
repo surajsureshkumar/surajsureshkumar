@@ -13,7 +13,6 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 - Go, C++ 
 - SQL and noSQL Databases
 - AWS, GCP, Docker
-- Git, GitHub
 
 ## :fire: Somethings About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
