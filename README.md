@@ -17,7 +17,7 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 
 ## :fire: Somethings About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
-- 🌱 I’m currently learning and polishing my java skills and system design
+- 🌱 I’m currently refining my java skills and improving my system design knowledge
 - 📫 How to reach me: surajsureshkumar.98@gmail.com
 
 <!--
