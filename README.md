@@ -8,11 +8,12 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar) | [GitHub](https://github.com/surajsureshkumar)
 -->
 ## 🚀 Technologies I work with
-- Java, Spring Boot
-- Python, Flask, Python for Data mining and analysis
-- Go, C++ 
+- Java, Spring Boot, JUnit, Hibernate, Thymeleaf, Maven
+- Python, Flask, Pandas, Numpy, pytest
+- React.js, Express.js, HTML5, CSS, Tailwind CSS
 - SQL and noSQL Databases
-- AWS, GCP, Docker
+- AWS, GCP, Docker, Kubernetes
+- Postman, Mockito, GDB, SonaQube, Flyway
 
 ## :fire: Somethings About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
