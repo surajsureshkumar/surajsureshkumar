@@ -29,7 +29,8 @@ Love backend development with high interests in cloud computing, distributed sys
 - Masters Big Data
 - Computer Networks Projects
 -->
-Thanks for stopping by! Stay happy!
+Thanks for stopping by! Stay happy, life's better that way!
+
 📫 Reach me at: surajsureshkumar.98@gmail.com 
 <!--
 **surajsureshkumar/surajsureshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
