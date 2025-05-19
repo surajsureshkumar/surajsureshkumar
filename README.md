@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Suraj! You can call me Suri :smiley:
 
-I'm a passionate backend developer with interests in cloud, distributed systems, and building scalable applications.
+I'm a passionate backend developer with interests in cloud, distributed systems, and building scalable applications/ systems.
 
 <!--
 🌍 Based in Jersey City, NJ  
@@ -19,6 +19,8 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 - 🌱 I’m currently refining my java skills and improving my system design knowledge
 - 📫 How to reach me: surajsureshkumar.98@gmail.com
 
+## :robot: Game On
+- Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!
 <!--
 ## 📌 Projects
 - Portfolio Website (coming soon!)
