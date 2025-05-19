@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Suraj! You can call me Suri :smiley:
 
-I'm a passionate backend developer with interests in cloud, distributed systems, and building scalable applications/ systems.
+Love backend development with high interests in cloud computing, distributed systems, and building scalable applications/ systems.
 
 <!--
 🌍 Based in Jersey City, NJ  
-📫 Reach me at: surajsureshkumar.98@gmail.com  
+ 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar) | [GitHub](https://github.com/surajsureshkumar)
 -->
 ## 🚀 Technologies I work with
@@ -14,6 +14,7 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 - SQL and noSQL Databases
 - AWS, GCP, Docker, Kubernetes
 - Postman, Mockito, GDB, SonaQube, Flyway
+- Microservices, Database Design & Schema, System Design, REST APIs
 
 ## :fire: Somethings About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
@@ -29,6 +30,7 @@ I'm a passionate backend developer with interests in cloud, distributed systems,
 - Computer Networks Projects
 -->
 Thanks for stopping by! Stay happy!
+📫 Reach me at: surajsureshkumar.98@gmail.com 
 <!--
 **surajsureshkumar/surajsureshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
