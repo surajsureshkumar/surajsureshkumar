@@ -4,7 +4,7 @@ Love backend development with high interests in cloud computing, distributed sys
 
 <!--
 🌍 Based in Jersey City, NJ  
- 
+ 📫 Reach me at: surajsureshkumar.98@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar) | [GitHub](https://github.com/surajsureshkumar)
 -->
 ## 🚀 Technologies I work with
@@ -19,9 +19,10 @@ Love backend development with high interests in cloud computing, distributed sys
 ## :fire: Somethings About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
 - 🌱 I’m currently refining my java skills and improving my system design knowledge
+- :fountain: In my meantime I like to learn advanced computer networks topics
 - 📫 How to reach me: surajsureshkumar.98@gmail.com
 
-## :robot: Game On
+## :video_game: Game On
 - Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!
 <!--
 ## 📌 Projects
@@ -31,7 +32,7 @@ Love backend development with high interests in cloud computing, distributed sys
 -->
 Thanks for stopping by! Stay happy, life's better that way!
 
-📫 Reach me at: surajsureshkumar.98@gmail.com 
+
 <!--
 **surajsureshkumar/surajsureshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
