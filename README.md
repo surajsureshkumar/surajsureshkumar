@@ -12,7 +12,7 @@ Love backend development with high interests in cloud computing, distributed sys
 - Python, Flask, Pandas, Numpy, pytest
 - React.js, Express.js, HTML5, CSS, Tailwind CSS
 - SQL and noSQL Databases
-- AWS, GCP, Docker, Kubernetes
+- AWS, GCP, Docker, Kubernetes, Azure(few services)
 - Postman, Mockito, GDB, SonaQube, Flyway
 - Microservices, Database Design & Schema, System Design, REST APIs
 
