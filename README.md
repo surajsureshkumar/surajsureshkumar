@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Suraj! You can call me Suri :smiley:
+## Hi there 👋 I'm Suraj! You can call me Suri :smiley: , my sister's friends used to call me suri puri :laughing:
 
 Love backend development with high interests in cloud computing, distributed systems, and building scalable applications/ systems.
 
