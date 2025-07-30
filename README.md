@@ -23,7 +23,7 @@ Love backend development with high interests in cloud computing, distributed sys
 - 📫 How to reach me: surajsureshkumar.98@gmail.com
 
 ## :video_game: Game On
-- Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!
+<!--- Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!-->
 <!--
 ## 📌 Projects
 - Portfolio Website (coming soon!)
