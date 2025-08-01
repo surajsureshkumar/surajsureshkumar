@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Suraj! You can call me Surii :smiley: 
 
-Love backend development with high interests in cloud computing, distributed systems, and building scalable applications/ systems.
+Backend development with high interests in cloud computing, distributed systems, and building scalable applications/ systems.
 
 <!--
 🌍 Based in Jersey City, NJ  
