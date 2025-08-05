@@ -20,7 +20,6 @@ Backend development with high interests in cloud computing, distributed systems,
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
 - 🌱 I’m currently refining my coding skills and improving my system design knowledge
 - Also, I am on the lookout for opportunities to get my foot into the tech industry again
-- :fountain: In my meantime I like to learn advanced computer networks topics
 - 📫 How to reach me: surajsureshkumar.98@gmail.com
 
 ## :video_game: Game On
