@@ -17,10 +17,10 @@ Backend development with high interests in cloud computing, distributed systems,
 - Microservices, Database Design & Schema, System Design, REST APIs
 
 ## :fire: Somethings About me
-- 🔭 I’m currently working on developing backend and frontend features for a non-profit organization
-- 🌱 I’m currently refining my coding skills and improving my system design knowledge
-- Also, I am on the lookout for opportunities to get my foot into the tech industry again
-- 📫 How to reach me: surajsureshkumar.98@gmail.com
+- 🔭 I’m currently working on developing backend and frontend features for a non-profit organization as a volunteer
+- 🌱 I’m currently improving my coding knowledge and system design knowledge
+- I am on the lookout for opportunities to get started in the tech industry again
+- 📫 Email me: surajsureshkumar.98@gmail.com
 
 ## :video_game: Game On
 <!--- Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!-->
