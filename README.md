@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Suraj! You can call me Surii :smiley: 
+## Hi there 👋 I'm Suraj! my friends call me Surii :smiley: 
 
 Backend development with high interests in cloud computing, distributed systems, and building scalable applications/ systems.
 
