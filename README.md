@@ -7,7 +7,7 @@ Backend development with high interests in cloud computing, distributed systems,
  📫 Reach me at: surajsureshkumar.98@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar) | [GitHub](https://github.com/surajsureshkumar)
 -->
-## 🚀 Technologies I work with
+## 🚀 Technologies I can work with but not limited to
 - Java, Spring Boot, JUnit, Hibernate, Thymeleaf, Maven
 - Python, Flask, Pandas, Numpy, pytest
 - React.js, Express.js, HTML5, CSS, Tailwind CSS
