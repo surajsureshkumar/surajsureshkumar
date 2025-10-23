@@ -16,11 +16,11 @@ Backend development with high interests in cloud computing, distributed systems,
 - Postman, Mockito, GDB, SonaQube, Flyway
 - Microservices, Database Design & Schema, System Design, REST APIs
 
-## :fire: Somethings About me
+## :fire: About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization as a volunteer
-- 🌱 I’m currently improving my coding knowledge and system design knowledge
+- 🌱 I’m currently improving my coding and system design knowledge, while trying to master AWS services
 - I am on the lookout for opportunities to get started in the tech industry again
-- 📫 Email me: surajsureshkumar.98@gmail.com
+- 📫 Email me: surajsureshkumar.98@gmail.com or Phone: 5852105827 
 
 
 <!--- Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!-->
