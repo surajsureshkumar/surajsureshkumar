@@ -7,7 +7,7 @@
  📫 Reach me at: surajsureshkumar.98@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar) | [GitHub](https://github.com/surajsureshkumar)
 -->
-## 🚀 Technologies I can work with but not limited to
+## 🚀 Technologies
 - Java, Spring Boot, JUnit, Hibernate, Thymeleaf, Maven
 - Python, Flask, Pandas, Numpy, pytest
 - React.js, Express.js, HTML5, CSS, Tailwind CSS
