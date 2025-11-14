@@ -1,6 +1,6 @@
 ## 👋 I'm Suraj! my friends call me Surii :smiley: 
 
- Software developer with high interests in cloud computing, distributed systems, and building scalable applications/ systems. I find research and software development fun.
+ Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems. I find research and software development fun.
 
 <!--
 🌍 Based in Jersey City, NJ  
