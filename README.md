@@ -1,4 +1,4 @@
-## 👋 I'm Suraj! my friends call me Surii :smiley: 
+## 👋 I'm Suraj! :smiley: 
 
  Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems. I find research and software development fun.
 
