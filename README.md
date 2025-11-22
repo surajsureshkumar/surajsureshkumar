@@ -1,6 +1,6 @@
 ## 👋 I'm Suraj! :smiley: 
 
- Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems. I find research and software development fun.
+ Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems. I like games, research and software development.
 
 <!--
 🌍 Based in Jersey City, NJ  
