@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization as a volunteer
 - 🌱 I’m currently improving my coding and system design knowledge, while trying to master AWS services
 - Currently looking for opportunities as software developer/backend developer
-- 📫 Email me: surajsureshkumar.98@gmail.com or Phone: 5852105827 
+- 📫 Phone: 5852105827 
 
 
 <!--- Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!-->
