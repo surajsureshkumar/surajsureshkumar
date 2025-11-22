@@ -7,6 +7,7 @@
  📫 Reach me at: surajsureshkumar.98@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar) | [GitHub](https://github.com/surajsureshkumar)
 -->
+<!--
 ## 🚀 Technologies
 - Java, Spring Boot, JUnit, Hibernate, Thymeleaf, Maven
 - Python, Flask, Pandas, Numpy, pytest
@@ -15,7 +16,7 @@
 - AWS, GCP, Docker, Kubernetes, Azure(few services)
 - Postman, Mockito, GDB, SonaQube, Flyway
 - Microservices, Database Design & Schema, System Design, REST APIs
-
+-->
 ## :fire: About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization as a volunteer
 - 🌱 I’m currently improving my coding and system design knowledge, while trying to master AWS services
