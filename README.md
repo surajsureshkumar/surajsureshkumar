@@ -20,7 +20,7 @@
 ## :fire: About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization as a volunteer
 - 🌱 I’m currently improving my coding and system design knowledge, while trying to master AWS services
-- I am on the lookout for opportunities to get started in the tech industry again
+- Currently looking for opportunities as software developer/backend developer
 - 📫 Email me: surajsureshkumar.98@gmail.com or Phone: 5852105827 
 
 
