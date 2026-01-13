@@ -17,12 +17,12 @@
 - Postman, Mockito, GDB, SonaQube, Flyway
 - Microservices, Database Design & Schema, System Design, REST APIs
 -->
-## :fire: About me
+<!--## :fire: About me
 - 🔭 I’m currently working on developing backend and frontend features for a non-profit organization as a volunteer
 - 🌱 I’m currently improving my coding and system design knowledge, while trying to master AWS services
 - Currently looking for opportunities as software developer/backend developer
 - 📫 Phone: 5852105827 
-
+-->
 
 <!--- Down for some fun? feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198313254704/) and lets play!-->
 <!--
