@@ -1,5 +1,5 @@
 ## 👋 I'm Suraj! :smiley: 
- I like games, research and software development.
+I like games, research and software development.
  <!--Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems.-->
 
 <!--
