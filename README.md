@@ -1,7 +1,12 @@
 ## 👋 I'm Suraj! :smiley: 
 It's pronounced as soo-ruh-aj. I love playing video games mainly PC, I have no barrier when it comes to songs genre. I enjoy doing research and developing software. When I am bored I am just bored.
  <!--Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems.-->
- 
+
+I have experience working as a full stack engineer where I worked on critical multi-tenant features and data pipelines for B2B SaaS. I also have experience in research and my research contributed a high-performance traffic generation system on an Intel Tofino programmable switch for benchmarking DPI filtering (MS research at RIT). Backend and frontend features as a volunteer for a non-profit. I have also had the chance to work as a Junior Backend Developer assisting seniors and a R&D Software Development Intern.
+
+
+## 🚀 Technologies
+- TypeScript, JavaScript, Python, Java, SQL
 ## 🚀 Technologies
 - TypeScript, JavaScript, Python, Java, SQL
 - Next.js, React, Node.js, Express.js, Spring Boot
