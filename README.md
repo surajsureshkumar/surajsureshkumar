@@ -4,9 +4,34 @@ It's pronounced as soo-ruh-aj. I love playing video games mainly PC, I have no b
 
 I have experience working as a full stack engineer where I worked on critical multi-tenant features and data pipelines for B2B SaaS. I also have experience in research and my research contributed a high-performance traffic generation system on an Intel Tofino programmable switch for benchmarking DPI filtering (MS research at RIT). Backend and frontend features as a volunteer for a non-profit. I have also had the chance to work as a Junior Backend Developer assisting seniors and a R&D Software Development Intern.
 
-
 ## 🚀 Technologies
-- TypeScript, JavaScript, Python, Java, SQL
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,java)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,spring,materialui)](https://skillicons.dev)
+
+**Databases & Data**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,prisma,planetscale,firebase)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,vercel,docker,jenkins,git,gitlab)](https://skillicons.dev)
+
+**Testing & Monitoring**
+
+[![Testing](https://skillicons.dev/icons?i=jest,postman,sentry)](https://skillicons.dev)
+
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-191919?logo=launchdarkly&logoColor=white)
+
 ## 🚀 Technologies
 - TypeScript, JavaScript, Python, Java, SQL
 - Next.js, React, Node.js, Express.js, Spring Boot
