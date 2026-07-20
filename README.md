@@ -11,7 +11,7 @@ It's pronounced as soo-ruh-aj. I love playing video games mainly PC, I have no b
  📫 Reach me at: surajsureshkumar.98@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar)
 
-Currently open to full-stack and backend engineering roles — in-person, remote, or hybrid.
+Currently open to full-stack and backend engineering roles, in-person, remote, or hybrid.
 <!--
 ## 🚀 Technologies
 - Java, Spring Boot, JUnit, Hibernate, Thymeleaf, Maven
