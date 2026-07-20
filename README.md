@@ -2,11 +2,9 @@
 It's pronounced as soo-ruh-aj. I love playing video games mainly PC, I have no barrier when it comes to songs genre. I enjoy doing research and developing software. When I am bored I am just bored.
  <!--Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems.-->
 
-<!--
-🌍 Based in Jersey City, NJ  
  📫 Reach me at: surajsureshkumar.98@gmail.com 
-🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar) | [GitHub](https://github.com/surajsureshkumar)
--->
+🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar)
+
 <!--
 ## 🚀 Technologies
 - Java, Spring Boot, JUnit, Hibernate, Thymeleaf, Maven
