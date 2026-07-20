@@ -32,12 +32,6 @@ I have experience working as a full stack engineer where I worked on critical mu
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-191919?logo=launchdarkly&logoColor=white)
 
-## 🚀 Technologies
-- TypeScript, JavaScript, Python, Java, SQL
-- Next.js, React, Node.js, Express.js, Spring Boot
-- PostgreSQL, MongoDB, Google BigQuery, Prisma
-- Docker, AWS (EC2, S3, Lambda), GCP, Vercel
-- Jest, Playwright, Postman
  📫 Reach me at: surajsureshkumar.98@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar)
 
