@@ -2,7 +2,7 @@
 It's pronounced as soo-ruh-aj. I love playing video games mainly PC, I have no barrier when it comes to songs genre. I enjoy doing research and developing software. When I am bored I am just bored.
  <!--Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems.-->
 
-I have worked on critical multi-tenant features, web applications and data pipelines for B2B SaaS as a full stack engineer, and built backend and frontend features as a volunteer for a non-profit. During my MS at RIT, my research built a high-performance traffic generation system on an Intel Tofino programmable switch for benchmarking DPI filtering. Before grad school, I worked as a Junior Backend Developer and as Software Development Intern.
+I have worked on critical multi-tenant features, web applications and data pipelines for B2B SaaS as a full stack engineer, and built backend and frontend features as a volunteer for a non-profit. During my MS at RIT, my research built a high-performance traffic generation system on an Intel Tofino programmable switch for benchmarking DPI filtering. Before grad school, I worked as a Junior Backend Developer and as a Software Development Intern.
 
 ## 🚀 Technologies
 
