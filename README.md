@@ -31,6 +31,8 @@ I have experience working as a full stack engineer where I worked on critical mu
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-191919?logo=launchdarkly&logoColor=white)
+![Pino](https://img.shields.io/badge/Pino-687634?logo=pino&logoColor=white)
+![Papertrail](https://img.shields.io/badge/Papertrail-2E3A46?logoColor=white)
 
  📫 Reach me at: surajsureshkumar.98@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/surajsureshkumar)
