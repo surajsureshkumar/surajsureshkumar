@@ -1,5 +1,5 @@
 ## 👋 I'm Suraj! :smiley: 
-It's pronounced as soo-ruh-aj. I love playing video games mainly PC, I have no barrier when it comes to songs genre. I enjoy doing research and developing software. When I am bored I tend to read tech newsletter or solve puzzles.
+It's pronounced as soo-ruh-aj. I love playing video games mainly PC, I have no barrier when it comes to songs genre. I enjoy doing research and developing software. When I am bored I am just bored.
  <!--Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems.-->
 
 <!--
