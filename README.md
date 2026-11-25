@@ -1,5 +1,5 @@
 ## 👋 I'm Suraj! :smiley: 
-It's pronounced as soo-ruh-aj but, you can call me suri. I enjoy doing research and developing software, designing scalable systems. When I am bored I am just bored, not doomscrolling.
+It's pronounced as soo-ruh-aj but, you can call me suri. I enjoy doing research, developing software and designing scalable systems. When I am bored I am just bored, not doomscrolling.
  <!--Software developer with interests in cloud computing, distributed systems, and building scalable applications/ systems.-->
 
 I have built critical multi-tenant features, web applications, data pipelines, triaged bug swim lanes, audited application for vulnerabilities and securing applications as a full stack engineer, built backend and frontend features as a volunteer for a non-profit going from 0 to 1 MVP. During my Master's degree at RIT, my capstone project built a high-performance traffic generation system on an Intel Tofino programmable switch for benchmarking DPI filtering which became the foundational work for a IDS based P4 system. Before grad school, I worked as a Junior Backend Developer and as a Software Development Intern learning craft and getting into the industry.
